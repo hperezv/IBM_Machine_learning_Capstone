@@ -60,4 +60,3 @@ To get started with the materials in this repository:
 
 ## Contributor
 
-- Héctor Pérez Vilcapaza
